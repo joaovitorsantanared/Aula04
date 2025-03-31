@@ -8,7 +8,7 @@ subtracao = Numero1 - Numero2
 print(f"A subtracao sera {subtracao}")
 
 multiplicacao = Numero1 * Numero2
-print(f"A multiplicacao sera{multiplicacao}")
+print(f"A multiplicacao sera {multiplicacao}")
 
 divisao = Numero1/Numero2
-print(f"A divisao sera{divisao}")
+print(f"A divisao sera {divisao}")
