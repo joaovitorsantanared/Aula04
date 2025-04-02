@@ -1,11 +1,11 @@
-Combustivel= input("Digite o tipo de combustivel: E: Etanol ou G:Gasolina")
+Combustivel= input("Digite o tipo de combustivel: E or e: Etanol ou G ou g:Gasolina")
 Litros =float(input("Digite a quantidade de litros"))
 
-if Combustivel == "E":
+if Combustivel == "E" or "e":
 
     total = Litros*4.90
 
-elif Combustivel == "G":
+elif Combustivel == "G" or "g":
 
 
     total = Litros*5.80
