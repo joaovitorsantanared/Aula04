@@ -11,5 +11,5 @@ elif Combustivel == "G" or "g":
     total = Litros*5.80
 
 
-print(f"O valor total foi de:{total}")
+print(f"O valor total de litros foi de {Litros} e o valor foi de:{total}")
 
